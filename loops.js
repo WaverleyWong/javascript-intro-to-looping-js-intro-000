@@ -24,13 +24,3 @@ function doWhileLoop(array) {
   } while (array.length > -1 && maybeTrue());
     return array;
 }
-
-function incrementVariable() {
-  i = i + 1;
-}
-
-function doWhileLoop(array) {
-  do {incrementVariable(array)}
-  while array.length > 0 && incrementVariable = false
-  return array
-}
