@@ -15,5 +15,3 @@ function whileLoop(int) {
   }
   return 'done'
 }
-ay;
-}
